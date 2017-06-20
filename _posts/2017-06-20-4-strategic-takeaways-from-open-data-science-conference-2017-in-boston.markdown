@@ -1,0 +1,22 @@
+---
+title: 4 Strategic Takeaways from Open Data Science Conference 2017 in Boston
+date: 2017-06-20 03:28:00 Z
+---
+
+Thousands of data science enthusiasts recently attended the 2017 Open Data Science Conference (ODSC) in Boston, a large, multi-day event with data science speakers ranging from Amazon’s Data and Analytics Practice Lead to the U.S. EPA’s Chief Data Scientist.
+
+The conference presented a solid mix of technical topics and strategic advice. Through intense, hands-on data science training, presenters covered trends in applied data science and specific techniques within analytics, big data, and machine learning. Although the agenda included a variety of technical deep-dives, four particular strategic themes stood out for us, each speaking to some of the bigger challenges and opportunities facing big data and analytics today:
+
+1. Prioritize business-impacting analytics over the latest machine-learning algorithms: While there is no doubt that various aspects of artificial intelligence will revolutionize industries in the decades to come, there is a risk in jumping in too early if it distracts from impacting the core business. In his keynote, DataRobot‘s CEO Jeremy Achin emphasized the point, saying that data scientists should “play around with classifying cats and dogs using the latest deep-learning algorithms on their own time” (see this report “Defining Intelligence – An Overview of Artificial Intelligence, Beyond the Hype and Into the Methods and Applications”), and instead focus on the things that have a measurable impact to their firms’ bottom lines.
+
+2. Beware the lure of building data scientist teams made up of rock-star unicorns: In a talk on how to build and position effective data science teams, Angela Bassa, Director of Data Science at iRobot, covered some key pitfalls to avoid. Rather than jumping in with a massive investment, she recommended starting with a smaller team comprised of a handful of data scientists and growing that team gradually – and, perhaps even more importantly, aiming for a careful balance in team dynamics.
+
+3. Even giants can benefit from crowdsourced strategies: Real estate database behemoth Zillow – whose annual revenues are more than $650 million – discussed its use of machine learning, and its future plans to open up its most prized algorithms for broader inputs. Jasjeet Thind, Zillow’s VP of Data Science and Engineering, covered how the company has a variety of use cases that benefit from machine learning, ranging from forecasting home price trends (its so-called “Zestimate”) to business analytics to personalization of its user experience. For example, to improve its home price estimates, Zillow is exploring deep-learning-based image recognition to analyze photos of listed homes’ interiors, seeing if high-end artwork or stainless-steel appliances are present in the photos, as a proxy for raised home value.
+
+4. Communicating and building trust of ten takes more time than building the algorithms: The Chief Data Scientist of the U.S. EPA, Robin Thottungal, discussed how his government agency continues to push for broader adoption of sensors, analytics, data science, and visualization. As an example, he gave the case of algae blooms, which applied data science could help identify and track better, with positive outcomes for water quality and public health. He explained that in the U.S. EPA’s experience, doing the data science – from building the algorithms to the data visualization – was only part of the battle, with many more hours spent on communicating the results with stakeholders and building up trust in the methodology and results.
+
+As data science and machine learning continue to reach higher and higher interest, these key takeaways from ODSC 2017 offer timely reminders around the fundamentals of focusing on business impact, building balanced teams, and emphasizing communication, even amidst the interest in the newest deep learning algorithms and convolutional neural nets.
+
+Staying up-to-date on the latest data science trends and insights has never been more important. Enhance your data science skills at ODSC's upcoming conference ODSC Europe in London Oct. 12-14. This is a great opportunity to learn, train and network with some of the best and brightest in the field. Attendees will accelerate their careers through machine learning workshops, deep learning talks and the ODSC data science career fair featuring cool startups and Fortune 500 companies looking to hire qualified candidates.
+
+Source: prnewswire
