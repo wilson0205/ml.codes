@@ -1,6 +1,6 @@
 ---
 title: Japanese Tech Company Collaborates with Silicon Valley-Based Start-Up
-date: 2017-06-20 03:32:00 Z
+date: 2016-07-02 03:32:00 Z
 ---
 
 Showcase-Tv Inc (Tokyo, Japan) and Adatos Pte Ltd (Palo Alto, California) made a business alliance starting in July 2016. Adatos provides big data analysis services powered by its proprietary Artificial Intelligence (AI) technology, which is based on projects developed by IARPA (The Intelligence Advanced Research Projects Activity). Showcase-Tv will provide and introduce Adatos’ software and analysis services to Japanese end-clients in financial and e-commerce industries. Showcase-Tv will also conduct R&D for new product development using a mix of technology from both Showcase-Tv and Adatos.
